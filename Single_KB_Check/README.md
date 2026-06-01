@@ -26,4 +26,3 @@ An interactive graphical user interface (GUI) built in PowerShell designed to au
 Simply navigate to the script location and run it:
 ```powershell
 .\Single_KB_Check.ps1
-<img width="796" height="653" alt="image" src="https://github.com/user-attachments/assets/7b31f80d-00b5-45a9-8cc4-f070c1a63a6b" />
