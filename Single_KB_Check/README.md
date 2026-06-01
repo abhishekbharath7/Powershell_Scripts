@@ -15,13 +15,7 @@ An interactive graphical user interface (GUI) built in PowerShell designed to au
 
 ---
 
-# KB Installation Checker (GUI Utility)
-
 <img width="796" height="653" alt="KB Checker GUI Screen" src="https://github.com/user-attachments/assets/50a630e4-4912-4028-a167-93989dddd82d" />
-
-An interactive graphical user interface (GUI) built in PowerShell...
-
-![KB Installation Checker](screenshot.png)
 
 ## 🚀 Usage Instructions
 
