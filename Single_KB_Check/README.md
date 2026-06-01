@@ -15,6 +15,8 @@ An interactive graphical user interface (GUI) built in PowerShell designed to au
 
 ---
 
+![KB Installation Checker](screenshot.png)
+
 ## 🚀 Usage Instructions
 
 ### Prerequisites
