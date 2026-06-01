@@ -25,4 +25,4 @@ An interactive graphical user interface (GUI) built in PowerShell designed to au
 ### Execution
 Simply navigate to the script location and run it:
 ```powershell
-.\KB_Installation_Checker.ps1
+.\Single_KB_Check.ps1
