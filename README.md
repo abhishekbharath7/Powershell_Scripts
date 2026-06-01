@@ -24,4 +24,4 @@ The repository is organized by operational domains to ensure quick navigation an
 ### How to Use
 1. Clone the repository to your local administration machine or management server:
 ```bash
-   git clone [https://github.com/abhishekbharath7/Powershell_Scripts.git](https://github.com/abhishekbharath7/Powershell_Scripts.git)
+   git clone https://github.com/abhishekbharath7/Powershell_Scripts.git
