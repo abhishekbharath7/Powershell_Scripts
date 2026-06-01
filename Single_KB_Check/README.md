@@ -11,7 +11,7 @@ An interactive graphical user interface (GUI) built in PowerShell designed to au
 * **Operating System Reporting:** Automatically queries and reports the specific OS Caption (e.g., *Windows Server 2022 Datacenter*).
 * **Pending Restart Identification:** Identifies if a KB is installed but lacks a valid date stamp, suggesting a pending system reboot.
 * **Dual Logging Methods:** * **Automated Background Logging:** Quietly writes session records to `C:\Script\KB_check\Logs\` upon completion.
-    * **On-Demand Export:** Dedicated button to manually save clean grid results to a custom CSV path via standard File Explorer dialog.
+* **On-Demand Export:** Dedicated button to manually save clean grid results to a custom CSV path via standard File Explorer dialog.
 
 ---
 
