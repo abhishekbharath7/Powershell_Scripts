@@ -28,3 +28,4 @@ An interactive graphical user interface (GUI) built in PowerShell designed to au
 Simply navigate to the script location and run it:
 ```powershell
 .\Single_KB_Check.ps1
+```
